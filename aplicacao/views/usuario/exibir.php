@@ -20,6 +20,7 @@ use components\Helper;
                 \components\Helper::mostraAlerta("warning");
                 \components\Helper::mostraAlerta("danger");
                 ?>
+                <!--
                 <div id="custom-search-input">
                     <div class="input-group col-md-12">
                         <input type="text" class="form-control input-sm" placeholder="Buscar"/>
@@ -30,6 +31,7 @@ use components\Helper;
                     </span>
                     </div>
                 </div>
+-->
                 <br>
                 <table class="table table-responsive table-striped">
                     <tr>

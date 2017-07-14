@@ -27,6 +27,7 @@ include(__DIR__ . '/../layout/header.php');
             \components\Helper::mostraAlerta("danger");
             ?>
             <!--            Busca-->
+             <!--  
             <div id="custom-search-input">
                 <div class="input-group col-md-12">
                     <input type="text" class="form-control input-sm" placeholder="Buscar"/>
@@ -37,7 +38,7 @@ include(__DIR__ . '/../layout/header.php');
                     </span>
                 </div>
             </div>
-
+-->
             <br>
             <!--            Tabela-->
             <table class="table table-responsive table-striped">

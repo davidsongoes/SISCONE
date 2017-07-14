@@ -1,2 +1,2 @@
-# projeto-cadastro-oo
-Projeto Cadastro - OO - FAB
+# SISCONE
+SISCONE - Sistema de Controle de Efetivo

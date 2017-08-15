@@ -10,4 +10,7 @@ MySQL charset: UTF-8 Unicode (utf8);<br>
 Apache 2.2.22; e<br>
 phpMyAdmin 3.4.11 ou superior(não obrigatório).
 
-OBS: o diretório fotos terá que ficar na raiz do servidor web.
+Plugin Load Module in Article
+Testado na versão: Joomla! 3.4.8 Stable
+
+OBS: o diretório fotos terá que ficar no diretório do portal.
